@@ -3,14 +3,13 @@
 🎓 I'm a student-athlete at UT-Tyler with a strong passion for **Data Science**, **Python**, and **Java**.  
 🧠 Former front-end developer fluent in **French**, currently diving deep into backend, scripting, and low-level systems.
 
----
 
 ## 🚀 What I'm Working On
 
 - 🛡️ **Network Traffic Monitor** – A tool to analyze network activity in real time using Python
 - 🧩 **Custom Python-Like Scripting Language** – Experimenting with interpreters and compilers
 
----
+
 
 ## 📚 Currently Learning
 
@@ -18,7 +17,7 @@
 - ☕ **Java** – Object-oriented programming and backend development
 - 🗃️ **SQL** – Databases and query optimization
 
----
+
 
 ## 🤝 Looking to Collaborate On
 
@@ -26,7 +25,6 @@
 - Data-driven projects using Python or Java
 - Open-source or academic projects involving AI, ML, or system tools
 
----
 
 ## 📬 Let's Connect
 
