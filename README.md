@@ -14,7 +14,7 @@
 
 ## 📚 Currently Learning
 
-- 🇩🇪 **German** – Language learning for fun and travel
+-  **German** – Language learning for fun and travel
 - ☕ **Java** – Object-oriented programming and backend development
 - 🗃️ **SQL** – Databases and query optimization
 
@@ -30,7 +30,7 @@
 
 ## 📬 Let's Connect
 
-📧 **Email**: odeyjeffs3@gmail.com  
+📧 odeyjeffs3@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(Add your LinkedIn profile URL here)*  
 🐙 [GitHub](https://github.com/yourusername) *(Add your GitHub username here)*
 
