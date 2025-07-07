@@ -34,7 +34,7 @@ odeyjeffs3@gmail.com
 
 ---
 
-Thanks for stopping by! 😊
+Thanks for stopping by!
 
 <!--
 **Odey340/Odey340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
