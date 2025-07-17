@@ -16,6 +16,7 @@
 -  **German** – Language learning for fun and travel
 -  **Java** – Object-oriented programming and backend development
 -  **SQL** – Databases and query optimization
+-  **OCaml** - Jane Street
 
 
 
