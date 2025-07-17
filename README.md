@@ -29,7 +29,7 @@
 ##  Let's Connect
 
 odeyjeffs3@gmail.com  
- [LinkedIn]*(https://www.linkedin.com/in/odeydj/)*  
+LinkedIn: [linkedin.com/in/odeydj](https://www.linkedin.com/in/odeydj/)
 
 ---
 
