@@ -29,8 +29,7 @@
 ##  Let's Connect
 
 odeyjeffs3@gmail.com  
- [LinkedIn](https://www.linkedin.com/in/your-profile) *(Add your LinkedIn profile URL here)*  
- [GitHub](https://github.com/yourusername) *(Add your GitHub username here)*
+ [LinkedIn](https://www.linkedin.com/in/your-profile) *(https://www.linkedin.com/in/odeydj/)*  
 
 ---
 
