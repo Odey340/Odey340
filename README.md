@@ -1,7 +1,7 @@
 #I'm Odey
 
- I'm a student-athlete at UT-Tyler with a strong passion for **Data Science**, **Python**, and **Java**.  
- Former front-end developer fluent in **French**, currently diving deep into backend, scripting, and low-level systems.
+ I'm a student-athlete at UT-Tyler with a strong interest for **Data Science**, **Python**, and **Java**.  
+ Former front-end developer fluent in **French**, currently diving deep into backend and assembly
 
 
 ##  What I'm Working On
