@@ -17,29 +17,10 @@
 -  **Java** – Object-oriented programming and backend development
 -  **SQL** – Databases and query optimization
 -  **OCaml** - Jane Street
+-  **Python** - For Tech Stacks
 
 
 
-##  Looking to Collaborate On
-
-- **Internships** (especially in the defense or cybersecurity sectors)
-- Data-driven projects using Python or Java
-- Open-source or academic projects involving AI, ML, or system tools
-
-
-##  Let's Connect
-
-odeyjeffs3@gmail.com  
-LinkedIn: [linkedin.com/in/odeydj](https://www.linkedin.com/in/odeydj/)
-
----
-
-Thanks for stopping by!
-
-<!--
-**Odey340/Odey340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
