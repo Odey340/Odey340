@@ -7,7 +7,7 @@
 ##  What I'm Working On
 
 -  **Network Traffic Monitor** – A tool to analyze network activity in real time using Java
--  **Custom Python-Like Scripting Language** – Experimenting with interpreters and compilers
+-  **Coding Programs to beat clash royale** – almsost there
 
 
 
