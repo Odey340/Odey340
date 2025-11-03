@@ -1,23 +1,28 @@
-#I'm Odey
+# I'm Odey
 
- I'm a student-athlete at UT-Tyler with a strong interest for **C++**.  
- Former front-end developer fluent in **French**, currently diving deep into backend and assembly
+I'm a student-athlete at UT Tyler with a strong interest in software engineering and computer systems.  
+Former front-end developer (fluent in French), now focused on building efficient, reliable, and scalable software.
 
+---
 
-##  What I'm Working On
+## What I'm Working On
+- **Artemis (C++)** – Lightweight trading engine with backtesting and data analysis.  
+- **Network Traffic Monitor (Java)** – Tool for visualizing and analyzing real-time network activity.  
+- **Clash 8 (C++)** – Simulation-based decision system using probabilistic modeling.
 
--  **Network Traffic Monitor** – A tool to analyze network activity in real time using Java
--  **Coding Programs to beat clash royale** – almsost there
+---
 
+## Currently Learning
+- C++ – Systems programming and performance optimization  
+- Python – Scripting, automation, and data workflows  
+- SQL – Database design and query optimization  
+- Java – Functional programming concepts  
+- German – Language learning for personal growth
 
+---
 
-##  Currently Learning
-
--  **German** – Language learning for fun and travel
--  **C++** – Object-oriented programming and backend development
--  **SQL** – Databases and query optimization
--  **OCaml** - Jane Street
--  **Python** - For Tech Stacks
-
-
-
+## Interests
+- Software engineering and system design  
+- Scalable backend architectures  
+- Algorithms, Embedded Systems, and optimization  
+- Applied programming in finance and data systems
