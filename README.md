@@ -16,7 +16,7 @@ Former front-end developer (fluent in French), now focused on building efficient
 - C++ – Systems programming and performance optimization  
 - Python – Scripting, automation, and data workflows  
 - SQL – Database design and query optimization  
-- Java – Functional programming concepts  
+- Rust - Best language in all the land.
 - German – Language learning for personal growth
 
 ---
